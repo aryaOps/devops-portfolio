@@ -79,14 +79,14 @@ certifications:
 | # | Repository | What it covers | Tools | Level |
 |---|-----------|---------------|-------|-------|
 | 01 | [🐧 linux-sysadmin-toolkit](https://github.com/aryaOps/linux-sysadmin-toolkit) | Bash automation scripts — DNS management, NFS mount reliability, LVM reporting, SSH hardening | Bash · Oracle Linux · systemd · NFS · LVM | ⚡ Intermediate |
-| 02 | [⚙️ ansible-server-hardening](https://github.com/aryaOps/ansible-server-hardening) | CIS benchmark hardening, OS patching roles, user management with Vault — 100+ server scale | Ansible · Vault · Jinja2 · EC2 Dynamic Inventory | 🔥 Advanced |
-| 03 | [🏗️ terraform-aws-infrastructure](https://github.com/aryaOps/terraform-aws-infrastructure) | Production 3-tier AWS architecture — VPC, ALB, ASG, RDS as reusable Terraform modules | Terraform · AWS · Checkov · Infracost | 🔥 Advanced |
+| 02 | [⚙️ ansible-server-hardening](https://github.com/aryaOps/ansible-server-hardening) | CIS benchmark hardening, OS patching roles, user management with Vault — 100+ server scale | Ansible · Vault · Jinja2 · EC2 Dynamic Inventory | ⚡ Intermediate |
+| 03 | [🏗️ terraform-aws-infrastructure](https://github.com/aryaOps/terraform-aws-infrastructure) | Production 3-tier AWS architecture — VPC, ALB, ASG, RDS as reusable Terraform modules | Terraform · AWS · Checkov · Infracost | ⚡ Intermediate |
 | 04 | [🐳 docker-containerization](https://github.com/aryaOps/docker-containerization) | Multi-stage Dockerfiles, Docker Compose stack with Nginx reverse proxy, ECR push pipeline | Docker · Compose · Nginx · ECR · Trivy | ⚡ Intermediate |
-| 05 | [☸️ kubernetes-eks-production](https://github.com/aryaOps/kubernetes-eks-production) | EKS cluster with HPA, IRSA, Cluster Autoscaler, Nginx Ingress and cert-manager TLS | EKS · Helm · Terraform · IRSA · HPA | 💀 Expert |
-| 06 | [🔧 jenkins-cicd-portfolio](https://github.com/aryaOps/jenkins-cicd-portfolio) | 13 Jenkins pipelines — Shared Library, blue-green deploy, DevSecOps, Jenkins on Kubernetes | Jenkins · Groovy · JCasC · K8s Agents | 💀 Expert |
-| 07 | [☁️ aws-automation-suite](https://github.com/aryaOps/aws-automation-suite) | EC2 scheduler (35% cost saving), EBS gp2→gp3 optimizer, 800-server migration toolkit | Lambda · EventBridge · boto3 · Terraform | 🔥 Advanced |
-| 08 | [📊 devops-observability-stack](https://github.com/aryaOps/devops-observability-stack) | Full monitoring platform — Prometheus, Grafana dashboards, Alertmanager routing to Slack | Prometheus · Grafana · Alertmanager · Ansible | 🔥 Advanced |
-| 09 | [🔄 gitops-argocd-pipeline](https://github.com/aryaOps/gitops-argocd-pipeline) | GitOps workflow — GitHub Actions CI → ECR → ArgoCD auto-sync to EKS | GitHub Actions · ArgoCD · Helm · EKS | 💀 Expert |
+| 05 | [☸️ kubernetes-eks-production](https://github.com/aryaOps/kubernetes-eks-production) | EKS cluster with HPA, IRSA, Cluster Autoscaler, Nginx Ingress and cert-manager TLS | EKS · Helm · Terraform · IRSA · HPA | ⚡ Intermediate |
+| 06 | [🔧 jenkins-cicd-portfolio](https://github.com/aryaOps/jenkins-cicd-portfolio) | 13 Jenkins pipelines — Shared Library, blue-green deploy, DevSecOps, Jenkins on Kubernetes | Jenkins · Groovy · JCasC · K8s Agents | ⚡ Intermediate |
+| 07 | [☁️ aws-automation-suite](https://github.com/aryaOps/aws-automation-suite) | EC2 scheduler (35% cost saving), EBS gp2→gp3 optimizer, 800-server migration toolkit | Lambda · EventBridge · boto3 · Terraform | ⚡ Intermediate |
+| 08 | [📊 devops-observability-stack](https://github.com/aryaOps/devops-observability-stack) | Full monitoring platform — Prometheus, Grafana dashboards, Alertmanager routing to Slack | Prometheus · Grafana · Alertmanager · Ansible | ⚡ Intermediate |
+| 09 | [🔄 gitops-argocd-pipeline](https://github.com/aryaOps/gitops-argocd-pipeline) | GitOps workflow — GitHub Actions CI → ECR → ArgoCD auto-sync to EKS | GitHub Actions · ArgoCD · Helm · EKS | ⚡ Intermediate |
 
 ---
 
